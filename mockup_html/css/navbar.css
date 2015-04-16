@@ -1,0 +1,162 @@
+/*start div.header*/
+.header{
+  height: 123px;
+  min-height: 123px;
+  max-height: 123px;
+  margin-top: 10px;
+}
+
+.right-float{
+  float: right;
+}
+/*end div.header*/
+
+/*start div.main-menu.navbar*/
+.main-menu.navbar{
+  background: url("http://www.nfte.com/sites/all/themes/startitup/img/sprite-bg-black.png") repeat-x 0 0;
+  height: 55px;
+  min-height: 55px;
+  max-height: 55px;
+}
+
+.ui.horizontal.list.right-aligned{
+  float: right;
+  margin-top: -15px;
+}
+.item.align-top{
+  width: 120px;
+  min-width: 120px;
+  max-width: 120px;
+  max-height: inherit;
+  list-style: none;
+}
+.ui.horizontal.list > .item.align-top{
+  /*padding: 0px;*/
+  margin-left: 0px;
+}
+
+.item.align-top .content: {
+  width: 120px;
+  min-width: 120px;
+  max-width: 120px;
+  max-height: inherit;
+}
+
+/*predefined background image*/
+#header-what{
+  background: url("http://www.nfte.com/sites/all/themes/startitup/img/sprite-nav.png") no-repeat 0px 0px;
+  display: block;
+  height: 55px;
+  float: right;
+  width: 119px;
+}
+#header-what:hover{
+  background: url("http://www.nfte.com/sites/all/themes/startitup/img/sprite-nav.png") no-repeat 0px -55px;
+  display: block;
+  height: 55px;
+  float: right;
+  width: 119px;
+}
+
+#header-why{
+  background: url("http://www.nfte.com/sites/all/themes/startitup/img/sprite-nav.png") no-repeat -120px 0px;
+  display: block;
+  height: 55px;
+  float: right;
+  width: 119px;
+}
+#header-why:hover{
+  background: url("http://www.nfte.com/sites/all/themes/startitup/img/sprite-nav.png") no-repeat -120px -55px;
+  display: block;
+  height: 55px;
+  float: right;
+  width: 119px;
+}
+
+#header-who{
+  background: url("http://www.nfte.com/sites/all/themes/startitup/img/sprite-nav.png") no-repeat -240px 0px;
+  display: block;
+  height: 55px;
+  float: right;
+  width: 119px;
+}
+#header-who:hover{
+  background: url("http://www.nfte.com/sites/all/themes/startitup/img/sprite-nav.png") no-repeat -240px -55px;
+  display: block;
+  height: 55px;
+  float: right;
+  width: 119px;
+}
+
+#header-get{
+  background: url("http://www.nfte.com/sites/all/themes/startitup/img/sprite-nav.png") no-repeat -360px 0px;
+  display: block;
+  height: 55px;
+  float: right;
+  width: 119px;
+}
+#header-get:hover{
+  background: url("http://www.nfte.com/sites/all/themes/startitup/img/sprite-nav.png") no-repeat -360px -55px;
+  display: block;
+  height: 55px;
+  float: right;
+  width: 119px;
+}
+
+#header-find{
+  background: url("http://www.nfte.com/sites/all/themes/startitup/img/sprite-nav.png") no-repeat -480px 0px;
+  border-right: 1px solid #fff;
+  display: block;
+  height: 55px;
+  float: right;
+  width: 119px;
+}
+#header-find:hover{
+  background: url("http://www.nfte.com/sites/all/themes/startitup/img/sprite-nav.png") no-repeat -480px -55px;
+  border-right: 1px solid #fff;
+  display: block;
+  height: 55px;
+  float: right;
+  width: 119px;
+}
+/*end predefined background image*/
+
+/*start hidden-content list*/
+.nav-header:hover + .hidden-content{
+  /*display: none;*/
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-top: 0;
+  /*display: none;*/
+  font-size: 12px;
+  margin-right: -1px;
+  padding: 0;
+  text-align: center;
+  width: 119px;
+}
+
+div.item a.nav-header.transparent-text{
+  color: transparent !important;
+  text-align: justify;
+  font-size: 28px;
+  font-weight: bold;
+  width: 120px;
+  min-width: 120px;
+  max-width: 120px;
+}
+div.item a.nav-header.transparent-text:hover,a.nav-header.transparent-text:focus{
+  color: transparent !important;
+  text-align: justify;
+  font-size: 28px;
+  font-weight: bold;
+  width: 120px;
+  min-width: 120px;
+  max-width: 120px;
+}
+
+.nav-header .smaller-text{
+  text-align: center;
+  font-size: 16px;
+}
+
+/*end div.main-menu.navbar*/

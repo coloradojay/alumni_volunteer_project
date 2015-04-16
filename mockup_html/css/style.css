@@ -1,0 +1,12 @@
+a,ul,ol,li,h1,h2,h3,h4,h5,h6{
+  font-family: Arial;
+}
+
+.max-width{
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.align-top{
+  vertical-align: top;
+}

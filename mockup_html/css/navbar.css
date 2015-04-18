@@ -1,4 +1,7 @@
 /*start div.header*/
+#block-display{
+  display: block;
+}
 .header{
   height: 123px;
   min-height: 123px;
@@ -21,7 +24,7 @@
 
 .ui.horizontal.list.right-aligned{
   float: right;
-  margin-top: -15px;
+  margin-top: -4px;
 }
 .item.align-top{
   width: 120px;
@@ -122,19 +125,6 @@
 /*end predefined background image*/
 
 /*start hidden-content list*/
-.nav-header:hover + .hidden-content{
-  /*display: none;*/
-  background-color: #fff;
-  border: 1px solid #ccc;
-  border-top: 0;
-  /*display: none;*/
-  font-size: 12px;
-  margin-right: -1px;
-  padding: 0;
-  text-align: center;
-  width: 119px;
-}
-
 div.item a.nav-header.transparent-text{
   color: transparent !important;
   text-align: justify;
@@ -154,9 +144,37 @@ div.item a.nav-header.transparent-text:hover,a.nav-header.transparent-text:focus
   max-width: 120px;
 }
 
-.nav-header .smaller-text{
+/*div.navbar-link.content*/
+div.ui.list.hidden-content{
+  display: none;
+  padding: 3px 0;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-top: 0;
+  color: gray;
+  padding: 0;
   text-align: center;
-  font-size: 16px;
+  width: 120px;
 }
 
+.nav-header.transparent-text:hover .ui.list.hidden-content{
+  display: block;
+}
+
+.ui.list.hidden-content .item:hover{
+  background-color: rgb(180, 208, 0);
+}
+
+.ui.list.hidden-content .item a{
+  font-size: 11px;
+  color: gray;  
+}
+
+.display-hidden-content:hover .ui.list.hidden-content{
+  display: block;
+}
+
+
+
 /*end div.main-menu.navbar*/
+

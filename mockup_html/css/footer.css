@@ -1,7 +1,48 @@
 .footer-wrapper{
-  background:url("http://www.nfte.com/sites/all/themes/startitup/img/bg-grey-tall.png") repeat-x 0 0;
+  background:url("../images/bg-grey-tall.png") repeat-x 0 0;
+  margin-bottom: 20px;
+}
+.ui.horizontal.list.footer-list{
+  min-width: 100%;
 }
 
-.bottom-footer{
-  background: url("http://www.nfte.com/sites/all/themes/startitup/img/sprite-bg-black.png") repeat-x 0 0;
+.item.align-top.footer-item{
+  min-width: 300px;
+  /*margin: 0px 30px*/
 }
+
+.item.align-top.footer-item .ui.list{
+  display: inline-block;
+}
+.item.align-top.footer-item .ui.list .item{
+  min-width: 120px;
+}
+.item.align-top.footer-item .ui.list .item a{
+  font-size: 12px;
+  color: gray !important;
+}
+
+.ui.banner.ad.supporter-spotlight{
+  max-width: 300px;
+  min-height: 90px;
+  background-color: white;
+}
+
+.supporter-ads{
+  height: 59px;
+  max-height: 60px;
+  max-width: 160px;
+  margin: 0 auto;
+}
+
+
+
+/*Bottom footer*/
+.bottom-footer{
+  background: url("../images/sprite-bg-black.png") repeat-x 0 0;
+  padding: 7px;
+  height: 45px;
+  margin-bottom: 20px;
+  color: white;
+}
+

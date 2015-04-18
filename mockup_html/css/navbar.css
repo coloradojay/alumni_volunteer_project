@@ -2,7 +2,7 @@
 #block-display{
   display: block;
 }
-.header{
+.navbar-header{
   height: 123px;
   min-height: 123px;
   max-height: 123px;
@@ -146,6 +146,9 @@ div.item a.nav-header.transparent-text:hover,a.nav-header.transparent-text:focus
 
 /*div.navbar-link.content*/
 div.ui.list.hidden-content{
+  position: absolute;
+  z-index: 999;
+  margin-top: 55px;
   display: none;
   padding: 3px 0;
   background-color: #fff;

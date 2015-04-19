@@ -39,10 +39,14 @@
 
 /*Bottom footer*/
 .bottom-footer{
-  background: url("../images/sprite-bg-black.png") repeat-x 0 0;
+  background: url("../images/sprite-bg-black.png") repeat-x 0px -55px;
   padding: 7px;
   height: 45px;
   margin-bottom: 20px;
   color: white;
 }
 
+.bottom-footer #nfte-address{
+  float: right;
+  padding-top: 5px;
+}

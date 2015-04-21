@@ -4,6 +4,7 @@ main{
 }
 
 
+<<<<<<< HEAD
 div.column div.ui.card{
   position: absolute;
   width: 280px;
@@ -25,4 +26,3 @@ div.column .hidden-card:hover div.ui.card{
   position: absolute;
   z-index: 50;
   box-shadow: 0 0 1em rgba(1,1,1,.75);
-}

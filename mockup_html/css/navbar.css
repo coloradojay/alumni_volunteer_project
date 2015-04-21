@@ -160,10 +160,6 @@ div.ui.list.hidden-content{
   width: 120px;
 }
 
-.nav-header.transparent-text:hover .ui.list.hidden-content{
-  display: block;
-}
-
 .ui.list.hidden-content .item:hover{
   background-color: rgb(180, 208, 0);
 }

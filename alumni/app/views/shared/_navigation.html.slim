@@ -1,1 +1,119 @@
 / Navbar to go here
+nav
+  .navbar-header
+    .max-width
+      img src="/assets/startitup_logo.png"
+      .right-float
+        div
+          - if user_signed_in?
+            | Welcome #{current_user.email}
+            | #{link_to "Sign out", destroy_user_session_path, :method => :delete}
+          - else
+            = link_to "Sign in ", new_user_session_path
+            | or #{link_to "Sign up", new_user_registration_path}
+        #block-display.ui.divided.horizontal.list
+          .item
+            a href="" Press Room
+          .item
+            a href="" Donate
+          .item
+            a href="" Contact
+        .ui.small.icon.input
+          input placeholder="Search..." type="text" /
+          i.search.icon
+        / .ui.fluid.small.action.input
+        /   input placeholder="Search..." type="text" /
+        /   .ui.button
+  .main-menu.navbar
+    .max-width
+      .ui.horizontal.list.right-aligned
+        .item.align-top
+          .navbar-link.content
+            .display-hidden-content
+              a#header-what.nav-header.transparent-text href="" what
+                span.smaller-text we do
+              .ui.list.hidden-content
+                .item
+                  a href="" Mission & History
+                .item
+                  a href="" Our Programs
+                .item
+                  a href="" Program Offices
+                .item
+                  a href="" Liscensed Partners
+                .item
+                  a href="" Make Your Job
+                .item
+                  a href="" Competitions
+                .item
+                  a href="" Events
+        .item.align-top
+          .navbar-link.content
+            .display-hidden-content
+              a#header-why.nav-header.transparent-text href="" why
+                span.smaller-text we do it
+              .ui.list.hidden-content
+                .item
+                  a href="" Our Impact
+                .item
+                  a href="" Success Stories
+                .item
+                  a href="" Making Headlines
+                .item
+                  a href="" Multimedia
+                .item
+                  a href="" FAQ
+                .item
+                  a href="" Blog
+        .item.align-top
+          .navbar-link.content
+            .display-hidden-content
+              a#header-who.nav-header.transparent-text href="" why
+                span.smaller-text we do it
+              .ui.list.hidden-content
+                .item
+                  a href="" President & CEO
+                .item
+                  a href="" Board of Directors
+                .item
+                  a href="" Board of Overseers
+                .item
+                  a href="" Staff Leaderships
+                .item
+                  a href="" Supporters
+                .item
+                  a href="" About Our Founder
+        .item.align-top
+          .navbar-link.content
+            .display-hidden-content
+              a#header-get.nav-header.transparent-text href="" why
+                span.smaller-text we do it
+              .ui.list.hidden-content
+                .item
+                  a href="" Support
+                .item
+                  a href="" Volunteer
+                .item
+                  a href="" Start an NFTE Program
+                .item
+                  a href="" Job Opportunities
+                .item
+                  a href="" Alumni Marketplace
+        .item.align-top
+          .navbar-link.content
+            .display-hidden-content
+              a#header-find.nav-header.transparent-text href="" why
+                span.smaller-text we do it
+              .ui.list.hidden-content
+                .item
+                  a href="" Annual Reports
+                .item
+                  a href="" For Administrators
+                .item
+                  a href="" For Teachers
+                .item
+                  a href="" For Alumni
+                .item
+                  a href="" For Policymakers
+                .item
+                  a href="" For Entrepeneurs

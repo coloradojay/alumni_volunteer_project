@@ -15947,3 +15947,2064 @@ Started GET "/assets/bg-grey-tall-c7e96faa175c447d82cc518b33e21e70f0b17359d492a0
 
 
 Started GET "/assets/sprite-nav-dd1b0eb7e3d7d71b07606e791743094a0d16f54b5400e4ba67c8ec92de5e4dc5.png" for ::1 at 2015-04-20 23:45:52 -0700
+
+
+Started GET "/users/sign_in" for ::1 at 2015-04-21 00:04:03 -0700
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.html.erb (29.0ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (644.4ms)
+  Rendered shared/_navigation.html.slim (31.1ms)
+  Rendered shared/_footer.html.slim (28.2ms)
+Completed 200 OK in 1572ms (Views: 1547.2ms)
+
+
+Started GET "/assets/staticpages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-04-21 00:04:05 -0700
+
+
+Started GET "/assets/users.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-04-21 00:04:05 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-21 00:04:05 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-21 00:04:05 -0700
+
+
+Started GET "/assets/application.self-b937acb12bd926f873fe9cde190a96b897bde748e8b742c4fb0c09df2ea3374b.css?body=1" for ::1 at 2015-04-21 00:04:05 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-21 00:04:05 -0700
+
+
+Started GET "/assets/semantic-ui/api.self-b91495d5f4243ff171bf15363611a5a75b37e325681a2bab84ef52fd85e47a76.js?body=1" for ::1 at 2015-04-21 00:04:05 -0700
+
+
+Started GET "/assets/semantic-ui/visibility.self-02f9fbfea1bdbdb0217270fd399e41eeddbf613856324ce6038c3037200c41bb.js?body=1" for ::1 at 2015-04-21 00:04:05 -0700
+
+
+Started GET "/assets/semantic-ui/colorize.self-91a797e44d5d59d8843b690ff99659b2f79d7ab5f71499b552b1b8d4246bb099.js?body=1" for ::1 at 2015-04-21 00:04:05 -0700
+
+
+Started GET "/assets/semantic-ui/visit.self-8569f5e8496280307892949e69ab2cbe26e7b3ac3cb1e30a8bf3f75418a256a4.js?body=1" for ::1 at 2015-04-21 00:04:05 -0700
+
+
+Started GET "/assets/semantic-ui/site.self-41d357713bb5764d31c4bf6dd9fc8b352f11a43fbe2c759eda9179a52941d0d4.js?body=1" for ::1 at 2015-04-21 00:04:05 -0700
+
+
+Started GET "/assets/semantic-ui/form.self-e901d0849a14a072e7c442a607b67963b650e18ae9250e24fd7b45f7de4c5743.js?body=1" for ::1 at 2015-04-21 00:04:05 -0700
+
+
+Started GET "/assets/semantic-ui/state.self-eb37b88f399713936f32b66ddf5de8c17c720ecf4319b076809a19fdd5206fca.js?body=1" for ::1 at 2015-04-21 00:04:05 -0700
+
+
+Started GET "/assets/semantic-ui/accordion.self-e9355d5182181026834c44c63c944bd4aec8778248279170ce1f6759a71f9379.js?body=1" for ::1 at 2015-04-21 00:04:05 -0700
+
+
+Started GET "/assets/semantic-ui/modal.self-23f8e6a9a5f5a13e8ba8f848d5c5f9cbdd5d1a7159e300a78a50f90faf7c6abb.js?body=1" for ::1 at 2015-04-21 00:04:05 -0700
+
+
+Started GET "/assets/semantic-ui/checkbox.self-e2fa593259f88422cb8b462903c92947c0592f58042f6c649a0e062f581e015f.js?body=1" for ::1 at 2015-04-21 00:04:05 -0700
+
+
+Started GET "/assets/semantic-ui/popup.self-751a7257651e6a8d11e3fcda04a94de0fa27c14d719ca472c6027cbd95bfcbe0.js?body=1" for ::1 at 2015-04-21 00:04:05 -0700
+
+
+Started GET "/assets/semantic-ui/dropdown.self-e6bc8f641617bd9b0438839102dd0a4fe13785fc8e33b50207d25c1ca515a630.js?body=1" for ::1 at 2015-04-21 00:04:05 -0700
+
+
+Started GET "/assets/semantic-ui/dimmer.self-86b906ea661bdc3c153028dc1eb26694ccff51c3fb7e619898dcd794630a3c0d.js?body=1" for ::1 at 2015-04-21 00:04:05 -0700
+
+
+Started GET "/assets/semantic-ui/progress.self-673b6febfbe4e7505dfa8c661674ae45fb0c5b262565d2eeba9e362183c5b6aa.js?body=1" for ::1 at 2015-04-21 00:04:05 -0700
+
+
+Started GET "/assets/semantic-ui/rating.self-2950cb0cc12371f1da3063a74d48d57a8fe49a8b17fe7bbcaf066b7b7e989c64.js?body=1" for ::1 at 2015-04-21 00:04:05 -0700
+
+
+Started GET "/assets/semantic-ui/nag.self-e28bbe83184598e515413d0ed29a56b3d034a380cf6a3b6f8d1b5018b02b3004.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/tab.self-de913c65731ac28b0f89f9f4887fd1ab7b4fd70e4d5781b70d9435f6e0feb59f.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/shape.self-80060dc5eb5dc3e5f1600e103ffbe8c959db581a92421d3bc2ac8fbf98ce5551.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/sidebar.self-8403c2ed156dc1a2cf939aba5ff9e4a929b8f8d929635feb2dd15e4c58269c26.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/search.self-edf600c5e5e5544d678503d4f6dd6be00e03e76f2a77166da81da306cc851ea7.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/transition.self-fd09644aba07b912b7b860acbe21c4fe0425068627b00a39e446c04159a6b13e.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/sticky.self-34df4b72b2c89efde0353741d241e473ee78b331632414e8e7a5752f7cc48d09.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui.self-6e0ce65031e802f83e9c1e92b66a459ada9f1f5f6522ba6c8d8198228fd219c3.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/video.self-ef53a0040731bc2dd9e7238cdb39208b995a44d89c32a7d2cb27ad91f63ce3fd.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/staticpages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/application.self-f98a0dd27ad1c55b2b9cfe97296d4887e5d4a4535b3bbbf9130c1050771738b2.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/startitup_logo.png" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/api.self-b91495d5f4243ff171bf15363611a5a75b37e325681a2bab84ef52fd85e47a76.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/form.self-e901d0849a14a072e7c442a607b67963b650e18ae9250e24fd7b45f7de4c5743.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/state.self-eb37b88f399713936f32b66ddf5de8c17c720ecf4319b076809a19fdd5206fca.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/visibility.self-02f9fbfea1bdbdb0217270fd399e41eeddbf613856324ce6038c3037200c41bb.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/visit.self-8569f5e8496280307892949e69ab2cbe26e7b3ac3cb1e30a8bf3f75418a256a4.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/site.self-41d357713bb5764d31c4bf6dd9fc8b352f11a43fbe2c759eda9179a52941d0d4.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/checkbox.self-e2fa593259f88422cb8b462903c92947c0592f58042f6c649a0e062f581e015f.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/dimmer.self-86b906ea661bdc3c153028dc1eb26694ccff51c3fb7e619898dcd794630a3c0d.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/dropdown.self-e6bc8f641617bd9b0438839102dd0a4fe13785fc8e33b50207d25c1ca515a630.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/modal.self-23f8e6a9a5f5a13e8ba8f848d5c5f9cbdd5d1a7159e300a78a50f90faf7c6abb.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/nag.self-e28bbe83184598e515413d0ed29a56b3d034a380cf6a3b6f8d1b5018b02b3004.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/popup.self-751a7257651e6a8d11e3fcda04a94de0fa27c14d719ca472c6027cbd95bfcbe0.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/progress.self-673b6febfbe4e7505dfa8c661674ae45fb0c5b262565d2eeba9e362183c5b6aa.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/search.self-edf600c5e5e5544d678503d4f6dd6be00e03e76f2a77166da81da306cc851ea7.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/shape.self-80060dc5eb5dc3e5f1600e103ffbe8c959db581a92421d3bc2ac8fbf98ce5551.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/sidebar.self-8403c2ed156dc1a2cf939aba5ff9e4a929b8f8d929635feb2dd15e4c58269c26.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/sticky.self-34df4b72b2c89efde0353741d241e473ee78b331632414e8e7a5752f7cc48d09.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/tab.self-de913c65731ac28b0f89f9f4887fd1ab7b4fd70e4d5781b70d9435f6e0feb59f.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/transition.self-fd09644aba07b912b7b860acbe21c4fe0425068627b00a39e446c04159a6b13e.js?body=1" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/semantic-ui/icons-66db52b456efe7e29cec11fa09421d03cb09e37ed1b567307ec0444fd605ce31.woff" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/sprite-nav-dd1b0eb7e3d7d71b07606e791743094a0d16f54b5400e4ba67c8ec92de5e4dc5.png" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/bg-grey-tall-c7e96faa175c447d82cc518b33e21e70f0b17359d492a01d252fe94c81b9571b.png" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/startitup_logo.png" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/assets/sprite-bg-black-c6aeba8d0356d82df6efa1fae3758efa2e9e943ad175e68b3aaff746499efb7b.png" for ::1 at 2015-04-21 00:04:06 -0700
+
+
+Started GET "/users/sign_in" for ::1 at 2015-04-21 00:04:30 -0700
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.html.erb (11.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (20.7ms)
+  Rendered shared/_navigation.html.slim (0.7ms)
+  Rendered shared/_footer.html.slim (0.1ms)
+Completed 200 OK in 341ms (Views: 338.6ms)
+
+
+Started GET "/assets/users.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-04-21 00:04:31 -0700
+
+
+Started GET "/assets/application.self-b937acb12bd926f873fe9cde190a96b897bde748e8b742c4fb0c09df2ea3374b.css?body=1" for ::1 at 2015-04-21 00:04:31 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-21 00:04:31 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-21 00:04:31 -0700
+
+
+Started GET "/assets/semantic-ui/api.self-b91495d5f4243ff171bf15363611a5a75b37e325681a2bab84ef52fd85e47a76.js?body=1" for ::1 at 2015-04-21 00:04:31 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-21 00:04:31 -0700
+
+
+Started GET "/assets/semantic-ui/colorize.self-91a797e44d5d59d8843b690ff99659b2f79d7ab5f71499b552b1b8d4246bb099.js?body=1" for ::1 at 2015-04-21 00:04:31 -0700
+
+
+Started GET "/assets/staticpages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-04-21 00:04:31 -0700
+
+
+Started GET "/assets/semantic-ui/form.self-e901d0849a14a072e7c442a607b67963b650e18ae9250e24fd7b45f7de4c5743.js?body=1" for ::1 at 2015-04-21 00:04:31 -0700
+
+
+Started GET "/assets/semantic-ui/state.self-eb37b88f399713936f32b66ddf5de8c17c720ecf4319b076809a19fdd5206fca.js?body=1" for ::1 at 2015-04-21 00:04:31 -0700
+
+
+Started GET "/assets/semantic-ui/visibility.self-02f9fbfea1bdbdb0217270fd399e41eeddbf613856324ce6038c3037200c41bb.js?body=1" for ::1 at 2015-04-21 00:04:31 -0700
+
+
+Started GET "/assets/semantic-ui/visit.self-8569f5e8496280307892949e69ab2cbe26e7b3ac3cb1e30a8bf3f75418a256a4.js?body=1" for ::1 at 2015-04-21 00:04:31 -0700
+
+
+Started GET "/assets/semantic-ui/site.self-41d357713bb5764d31c4bf6dd9fc8b352f11a43fbe2c759eda9179a52941d0d4.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/accordion.self-e9355d5182181026834c44c63c944bd4aec8778248279170ce1f6759a71f9379.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/checkbox.self-e2fa593259f88422cb8b462903c92947c0592f58042f6c649a0e062f581e015f.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/dropdown.self-e6bc8f641617bd9b0438839102dd0a4fe13785fc8e33b50207d25c1ca515a630.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/dimmer.self-86b906ea661bdc3c153028dc1eb26694ccff51c3fb7e619898dcd794630a3c0d.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/nag.self-e28bbe83184598e515413d0ed29a56b3d034a380cf6a3b6f8d1b5018b02b3004.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/popup.self-751a7257651e6a8d11e3fcda04a94de0fa27c14d719ca472c6027cbd95bfcbe0.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/progress.self-673b6febfbe4e7505dfa8c661674ae45fb0c5b262565d2eeba9e362183c5b6aa.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/rating.self-2950cb0cc12371f1da3063a74d48d57a8fe49a8b17fe7bbcaf066b7b7e989c64.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/search.self-edf600c5e5e5544d678503d4f6dd6be00e03e76f2a77166da81da306cc851ea7.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/shape.self-80060dc5eb5dc3e5f1600e103ffbe8c959db581a92421d3bc2ac8fbf98ce5551.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/modal.self-23f8e6a9a5f5a13e8ba8f848d5c5f9cbdd5d1a7159e300a78a50f90faf7c6abb.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/sticky.self-34df4b72b2c89efde0353741d241e473ee78b331632414e8e7a5752f7cc48d09.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/transition.self-fd09644aba07b912b7b860acbe21c4fe0425068627b00a39e446c04159a6b13e.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/video.self-ef53a0040731bc2dd9e7238cdb39208b995a44d89c32a7d2cb27ad91f63ce3fd.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/sidebar.self-8403c2ed156dc1a2cf939aba5ff9e4a929b8f8d929635feb2dd15e4c58269c26.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/tab.self-de913c65731ac28b0f89f9f4887fd1ab7b4fd70e4d5781b70d9435f6e0feb59f.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui.self-6e0ce65031e802f83e9c1e92b66a459ada9f1f5f6522ba6c8d8198228fd219c3.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/staticpages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/startitup_logo.png" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/application.self-f98a0dd27ad1c55b2b9cfe97296d4887e5d4a4535b3bbbf9130c1050771738b2.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/api.self-b91495d5f4243ff171bf15363611a5a75b37e325681a2bab84ef52fd85e47a76.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/form.self-e901d0849a14a072e7c442a607b67963b650e18ae9250e24fd7b45f7de4c5743.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/state.self-eb37b88f399713936f32b66ddf5de8c17c720ecf4319b076809a19fdd5206fca.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/visibility.self-02f9fbfea1bdbdb0217270fd399e41eeddbf613856324ce6038c3037200c41bb.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/visit.self-8569f5e8496280307892949e69ab2cbe26e7b3ac3cb1e30a8bf3f75418a256a4.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/checkbox.self-e2fa593259f88422cb8b462903c92947c0592f58042f6c649a0e062f581e015f.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/dimmer.self-86b906ea661bdc3c153028dc1eb26694ccff51c3fb7e619898dcd794630a3c0d.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/dropdown.self-e6bc8f641617bd9b0438839102dd0a4fe13785fc8e33b50207d25c1ca515a630.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/modal.self-23f8e6a9a5f5a13e8ba8f848d5c5f9cbdd5d1a7159e300a78a50f90faf7c6abb.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/nag.self-e28bbe83184598e515413d0ed29a56b3d034a380cf6a3b6f8d1b5018b02b3004.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/popup.self-751a7257651e6a8d11e3fcda04a94de0fa27c14d719ca472c6027cbd95bfcbe0.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/progress.self-673b6febfbe4e7505dfa8c661674ae45fb0c5b262565d2eeba9e362183c5b6aa.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/search.self-edf600c5e5e5544d678503d4f6dd6be00e03e76f2a77166da81da306cc851ea7.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/shape.self-80060dc5eb5dc3e5f1600e103ffbe8c959db581a92421d3bc2ac8fbf98ce5551.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/sidebar.self-8403c2ed156dc1a2cf939aba5ff9e4a929b8f8d929635feb2dd15e4c58269c26.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/sticky.self-34df4b72b2c89efde0353741d241e473ee78b331632414e8e7a5752f7cc48d09.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/tab.self-de913c65731ac28b0f89f9f4887fd1ab7b4fd70e4d5781b70d9435f6e0feb59f.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/transition.self-fd09644aba07b912b7b860acbe21c4fe0425068627b00a39e446c04159a6b13e.js?body=1" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/semantic-ui/icons-66db52b456efe7e29cec11fa09421d03cb09e37ed1b567307ec0444fd605ce31.woff" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/sprite-bg-black-c6aeba8d0356d82df6efa1fae3758efa2e9e943ad175e68b3aaff746499efb7b.png" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/bg-grey-tall-c7e96faa175c447d82cc518b33e21e70f0b17359d492a01d252fe94c81b9571b.png" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/assets/sprite-nav-dd1b0eb7e3d7d71b07606e791743094a0d16f54b5400e4ba67c8ec92de5e4dc5.png" for ::1 at 2015-04-21 00:04:32 -0700
+
+
+Started GET "/users/sign_in" for ::1 at 2015-04-21 00:04:55 -0700
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.html.erb (10.9ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (19.8ms)
+  Rendered shared/_navigation.html.slim (0.8ms)
+  Rendered shared/_footer.html.slim (30.9ms)
+Completed 200 OK in 311ms (Views: 309.6ms)
+
+
+Started GET "/assets/users.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/application.self-b937acb12bd926f873fe9cde190a96b897bde748e8b742c4fb0c09df2ea3374b.css?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/api.self-b91495d5f4243ff171bf15363611a5a75b37e325681a2bab84ef52fd85e47a76.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/staticpages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/form.self-e901d0849a14a072e7c442a607b67963b650e18ae9250e24fd7b45f7de4c5743.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/state.self-eb37b88f399713936f32b66ddf5de8c17c720ecf4319b076809a19fdd5206fca.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/colorize.self-91a797e44d5d59d8843b690ff99659b2f79d7ab5f71499b552b1b8d4246bb099.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/visibility.self-02f9fbfea1bdbdb0217270fd399e41eeddbf613856324ce6038c3037200c41bb.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/visit.self-8569f5e8496280307892949e69ab2cbe26e7b3ac3cb1e30a8bf3f75418a256a4.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/site.self-41d357713bb5764d31c4bf6dd9fc8b352f11a43fbe2c759eda9179a52941d0d4.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/accordion.self-e9355d5182181026834c44c63c944bd4aec8778248279170ce1f6759a71f9379.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/dimmer.self-86b906ea661bdc3c153028dc1eb26694ccff51c3fb7e619898dcd794630a3c0d.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/dropdown.self-e6bc8f641617bd9b0438839102dd0a4fe13785fc8e33b50207d25c1ca515a630.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/modal.self-23f8e6a9a5f5a13e8ba8f848d5c5f9cbdd5d1a7159e300a78a50f90faf7c6abb.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/checkbox.self-e2fa593259f88422cb8b462903c92947c0592f58042f6c649a0e062f581e015f.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/search.self-edf600c5e5e5544d678503d4f6dd6be00e03e76f2a77166da81da306cc851ea7.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/popup.self-751a7257651e6a8d11e3fcda04a94de0fa27c14d719ca472c6027cbd95bfcbe0.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/progress.self-673b6febfbe4e7505dfa8c661674ae45fb0c5b262565d2eeba9e362183c5b6aa.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/shape.self-80060dc5eb5dc3e5f1600e103ffbe8c959db581a92421d3bc2ac8fbf98ce5551.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/nag.self-e28bbe83184598e515413d0ed29a56b3d034a380cf6a3b6f8d1b5018b02b3004.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/rating.self-2950cb0cc12371f1da3063a74d48d57a8fe49a8b17fe7bbcaf066b7b7e989c64.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/sidebar.self-8403c2ed156dc1a2cf939aba5ff9e4a929b8f8d929635feb2dd15e4c58269c26.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/tab.self-de913c65731ac28b0f89f9f4887fd1ab7b4fd70e4d5781b70d9435f6e0feb59f.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/sticky.self-34df4b72b2c89efde0353741d241e473ee78b331632414e8e7a5752f7cc48d09.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/transition.self-fd09644aba07b912b7b860acbe21c4fe0425068627b00a39e446c04159a6b13e.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui.self-6e0ce65031e802f83e9c1e92b66a459ada9f1f5f6522ba6c8d8198228fd219c3.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/video.self-ef53a0040731bc2dd9e7238cdb39208b995a44d89c32a7d2cb27ad91f63ce3fd.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/application.self-f98a0dd27ad1c55b2b9cfe97296d4887e5d4a4535b3bbbf9130c1050771738b2.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/staticpages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/startitup_logo.png" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/api.self-b91495d5f4243ff171bf15363611a5a75b37e325681a2bab84ef52fd85e47a76.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/form.self-e901d0849a14a072e7c442a607b67963b650e18ae9250e24fd7b45f7de4c5743.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/state.self-eb37b88f399713936f32b66ddf5de8c17c720ecf4319b076809a19fdd5206fca.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/visibility.self-02f9fbfea1bdbdb0217270fd399e41eeddbf613856324ce6038c3037200c41bb.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/visit.self-8569f5e8496280307892949e69ab2cbe26e7b3ac3cb1e30a8bf3f75418a256a4.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/checkbox.self-e2fa593259f88422cb8b462903c92947c0592f58042f6c649a0e062f581e015f.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/dimmer.self-86b906ea661bdc3c153028dc1eb26694ccff51c3fb7e619898dcd794630a3c0d.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/dropdown.self-e6bc8f641617bd9b0438839102dd0a4fe13785fc8e33b50207d25c1ca515a630.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/modal.self-23f8e6a9a5f5a13e8ba8f848d5c5f9cbdd5d1a7159e300a78a50f90faf7c6abb.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/nag.self-e28bbe83184598e515413d0ed29a56b3d034a380cf6a3b6f8d1b5018b02b3004.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/popup.self-751a7257651e6a8d11e3fcda04a94de0fa27c14d719ca472c6027cbd95bfcbe0.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/progress.self-673b6febfbe4e7505dfa8c661674ae45fb0c5b262565d2eeba9e362183c5b6aa.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/search.self-edf600c5e5e5544d678503d4f6dd6be00e03e76f2a77166da81da306cc851ea7.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/shape.self-80060dc5eb5dc3e5f1600e103ffbe8c959db581a92421d3bc2ac8fbf98ce5551.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/sidebar.self-8403c2ed156dc1a2cf939aba5ff9e4a929b8f8d929635feb2dd15e4c58269c26.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/sticky.self-34df4b72b2c89efde0353741d241e473ee78b331632414e8e7a5752f7cc48d09.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/tab.self-de913c65731ac28b0f89f9f4887fd1ab7b4fd70e4d5781b70d9435f6e0feb59f.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/transition.self-fd09644aba07b912b7b860acbe21c4fe0425068627b00a39e446c04159a6b13e.js?body=1" for ::1 at 2015-04-21 00:04:56 -0700
+
+
+Started GET "/assets/semantic-ui/icons-66db52b456efe7e29cec11fa09421d03cb09e37ed1b567307ec0444fd605ce31.woff" for ::1 at 2015-04-21 00:04:57 -0700
+
+
+Started GET "/assets/sprite-bg-black-c6aeba8d0356d82df6efa1fae3758efa2e9e943ad175e68b3aaff746499efb7b.png" for ::1 at 2015-04-21 00:04:57 -0700
+
+
+Started GET "/assets/sprite-nav-dd1b0eb7e3d7d71b07606e791743094a0d16f54b5400e4ba67c8ec92de5e4dc5.png" for ::1 at 2015-04-21 00:04:57 -0700
+
+
+Started GET "/assets/bg-grey-tall-c7e96faa175c447d82cc518b33e21e70f0b17359d492a01d252fe94c81b9571b.png" for ::1 at 2015-04-21 00:04:57 -0700
+
+
+Started GET "/users/sign_in" for ::1 at 2015-04-21 00:05:29 -0700
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.html.erb (10.2ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (19.6ms)
+  Rendered shared/_navigation.html.slim (1.7ms)
+  Rendered shared/_footer.html.slim (20.0ms)
+Completed 200 OK in 284ms (Views: 282.7ms)
+
+
+Started GET "/assets/users.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/application.self-b937acb12bd926f873fe9cde190a96b897bde748e8b742c4fb0c09df2ea3374b.css?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/semantic-ui/api.self-b91495d5f4243ff171bf15363611a5a75b37e325681a2bab84ef52fd85e47a76.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/semantic-ui/visit.self-8569f5e8496280307892949e69ab2cbe26e7b3ac3cb1e30a8bf3f75418a256a4.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/semantic-ui/colorize.self-91a797e44d5d59d8843b690ff99659b2f79d7ab5f71499b552b1b8d4246bb099.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/semantic-ui/state.self-eb37b88f399713936f32b66ddf5de8c17c720ecf4319b076809a19fdd5206fca.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/semantic-ui/form.self-e901d0849a14a072e7c442a607b67963b650e18ae9250e24fd7b45f7de4c5743.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/semantic-ui/visibility.self-02f9fbfea1bdbdb0217270fd399e41eeddbf613856324ce6038c3037200c41bb.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/staticpages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/semantic-ui/accordion.self-e9355d5182181026834c44c63c944bd4aec8778248279170ce1f6759a71f9379.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/semantic-ui/checkbox.self-e2fa593259f88422cb8b462903c92947c0592f58042f6c649a0e062f581e015f.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/semantic-ui/dimmer.self-86b906ea661bdc3c153028dc1eb26694ccff51c3fb7e619898dcd794630a3c0d.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/semantic-ui/dropdown.self-e6bc8f641617bd9b0438839102dd0a4fe13785fc8e33b50207d25c1ca515a630.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/semantic-ui/progress.self-673b6febfbe4e7505dfa8c661674ae45fb0c5b262565d2eeba9e362183c5b6aa.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/semantic-ui/popup.self-751a7257651e6a8d11e3fcda04a94de0fa27c14d719ca472c6027cbd95bfcbe0.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/semantic-ui/nag.self-e28bbe83184598e515413d0ed29a56b3d034a380cf6a3b6f8d1b5018b02b3004.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/semantic-ui/modal.self-23f8e6a9a5f5a13e8ba8f848d5c5f9cbdd5d1a7159e300a78a50f90faf7c6abb.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/semantic-ui/site.self-41d357713bb5764d31c4bf6dd9fc8b352f11a43fbe2c759eda9179a52941d0d4.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/semantic-ui/rating.self-2950cb0cc12371f1da3063a74d48d57a8fe49a8b17fe7bbcaf066b7b7e989c64.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/semantic-ui/search.self-edf600c5e5e5544d678503d4f6dd6be00e03e76f2a77166da81da306cc851ea7.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/semantic-ui/sidebar.self-8403c2ed156dc1a2cf939aba5ff9e4a929b8f8d929635feb2dd15e4c58269c26.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/semantic-ui/sticky.self-34df4b72b2c89efde0353741d241e473ee78b331632414e8e7a5752f7cc48d09.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/semantic-ui/shape.self-80060dc5eb5dc3e5f1600e103ffbe8c959db581a92421d3bc2ac8fbf98ce5551.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/semantic-ui/tab.self-de913c65731ac28b0f89f9f4887fd1ab7b4fd70e4d5781b70d9435f6e0feb59f.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/semantic-ui/transition.self-fd09644aba07b912b7b860acbe21c4fe0425068627b00a39e446c04159a6b13e.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/semantic-ui/video.self-ef53a0040731bc2dd9e7238cdb39208b995a44d89c32a7d2cb27ad91f63ce3fd.js?body=1" for ::1 at 2015-04-21 00:05:29 -0700
+
+
+Started GET "/assets/staticpages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/semantic-ui.self-6e0ce65031e802f83e9c1e92b66a459ada9f1f5f6522ba6c8d8198228fd219c3.js?body=1" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/application.self-f98a0dd27ad1c55b2b9cfe97296d4887e5d4a4535b3bbbf9130c1050771738b2.js?body=1" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/startitup_logo.png" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/semantic-ui/api.self-b91495d5f4243ff171bf15363611a5a75b37e325681a2bab84ef52fd85e47a76.js?body=1" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/semantic-ui/form.self-e901d0849a14a072e7c442a607b67963b650e18ae9250e24fd7b45f7de4c5743.js?body=1" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/semantic-ui/state.self-eb37b88f399713936f32b66ddf5de8c17c720ecf4319b076809a19fdd5206fca.js?body=1" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/semantic-ui/visibility.self-02f9fbfea1bdbdb0217270fd399e41eeddbf613856324ce6038c3037200c41bb.js?body=1" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/semantic-ui/visit.self-8569f5e8496280307892949e69ab2cbe26e7b3ac3cb1e30a8bf3f75418a256a4.js?body=1" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/semantic-ui/checkbox.self-e2fa593259f88422cb8b462903c92947c0592f58042f6c649a0e062f581e015f.js?body=1" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/semantic-ui/dimmer.self-86b906ea661bdc3c153028dc1eb26694ccff51c3fb7e619898dcd794630a3c0d.js?body=1" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/semantic-ui/dropdown.self-e6bc8f641617bd9b0438839102dd0a4fe13785fc8e33b50207d25c1ca515a630.js?body=1" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/semantic-ui/modal.self-23f8e6a9a5f5a13e8ba8f848d5c5f9cbdd5d1a7159e300a78a50f90faf7c6abb.js?body=1" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/semantic-ui/nag.self-e28bbe83184598e515413d0ed29a56b3d034a380cf6a3b6f8d1b5018b02b3004.js?body=1" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/semantic-ui/popup.self-751a7257651e6a8d11e3fcda04a94de0fa27c14d719ca472c6027cbd95bfcbe0.js?body=1" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/semantic-ui/progress.self-673b6febfbe4e7505dfa8c661674ae45fb0c5b262565d2eeba9e362183c5b6aa.js?body=1" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/semantic-ui/search.self-edf600c5e5e5544d678503d4f6dd6be00e03e76f2a77166da81da306cc851ea7.js?body=1" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/semantic-ui/shape.self-80060dc5eb5dc3e5f1600e103ffbe8c959db581a92421d3bc2ac8fbf98ce5551.js?body=1" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/semantic-ui/sidebar.self-8403c2ed156dc1a2cf939aba5ff9e4a929b8f8d929635feb2dd15e4c58269c26.js?body=1" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/semantic-ui/sticky.self-34df4b72b2c89efde0353741d241e473ee78b331632414e8e7a5752f7cc48d09.js?body=1" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/semantic-ui/tab.self-de913c65731ac28b0f89f9f4887fd1ab7b4fd70e4d5781b70d9435f6e0feb59f.js?body=1" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/semantic-ui/transition.self-fd09644aba07b912b7b860acbe21c4fe0425068627b00a39e446c04159a6b13e.js?body=1" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/sprite-nav-dd1b0eb7e3d7d71b07606e791743094a0d16f54b5400e4ba67c8ec92de5e4dc5.png" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/bg-grey-tall-c7e96faa175c447d82cc518b33e21e70f0b17359d492a01d252fe94c81b9571b.png" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/semantic-ui/icons-66db52b456efe7e29cec11fa09421d03cb09e37ed1b567307ec0444fd605ce31.woff" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/assets/sprite-bg-black-c6aeba8d0356d82df6efa1fae3758efa2e9e943ad175e68b3aaff746499efb7b.png" for ::1 at 2015-04-21 00:05:30 -0700
+
+
+Started GET "/users/sign_in" for ::1 at 2015-04-21 00:06:37 -0700
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.html.erb (27.1ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (40.0ms)
+  Rendered shared/_navigation.html.slim (0.7ms)
+  Rendered shared/_footer.html.slim (21.0ms)
+Completed 200 OK in 350ms (Views: 348.5ms)
+
+
+Started GET "/assets/users.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-04-21 00:06:37 -0700
+
+
+Started GET "/assets/application.self-b937acb12bd926f873fe9cde190a96b897bde748e8b742c4fb0c09df2ea3374b.css?body=1" for ::1 at 2015-04-21 00:06:37 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-21 00:06:37 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/api.self-b91495d5f4243ff171bf15363611a5a75b37e325681a2bab84ef52fd85e47a76.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/colorize.self-91a797e44d5d59d8843b690ff99659b2f79d7ab5f71499b552b1b8d4246bb099.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/staticpages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/state.self-eb37b88f399713936f32b66ddf5de8c17c720ecf4319b076809a19fdd5206fca.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/visibility.self-02f9fbfea1bdbdb0217270fd399e41eeddbf613856324ce6038c3037200c41bb.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/form.self-e901d0849a14a072e7c442a607b67963b650e18ae9250e24fd7b45f7de4c5743.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/visit.self-8569f5e8496280307892949e69ab2cbe26e7b3ac3cb1e30a8bf3f75418a256a4.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/site.self-41d357713bb5764d31c4bf6dd9fc8b352f11a43fbe2c759eda9179a52941d0d4.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/checkbox.self-e2fa593259f88422cb8b462903c92947c0592f58042f6c649a0e062f581e015f.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/dimmer.self-86b906ea661bdc3c153028dc1eb26694ccff51c3fb7e619898dcd794630a3c0d.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/dropdown.self-e6bc8f641617bd9b0438839102dd0a4fe13785fc8e33b50207d25c1ca515a630.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/modal.self-23f8e6a9a5f5a13e8ba8f848d5c5f9cbdd5d1a7159e300a78a50f90faf7c6abb.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/nag.self-e28bbe83184598e515413d0ed29a56b3d034a380cf6a3b6f8d1b5018b02b3004.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/popup.self-751a7257651e6a8d11e3fcda04a94de0fa27c14d719ca472c6027cbd95bfcbe0.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/progress.self-673b6febfbe4e7505dfa8c661674ae45fb0c5b262565d2eeba9e362183c5b6aa.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/rating.self-2950cb0cc12371f1da3063a74d48d57a8fe49a8b17fe7bbcaf066b7b7e989c64.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/search.self-edf600c5e5e5544d678503d4f6dd6be00e03e76f2a77166da81da306cc851ea7.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/accordion.self-e9355d5182181026834c44c63c944bd4aec8778248279170ce1f6759a71f9379.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/sidebar.self-8403c2ed156dc1a2cf939aba5ff9e4a929b8f8d929635feb2dd15e4c58269c26.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/sticky.self-34df4b72b2c89efde0353741d241e473ee78b331632414e8e7a5752f7cc48d09.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/shape.self-80060dc5eb5dc3e5f1600e103ffbe8c959db581a92421d3bc2ac8fbf98ce5551.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/tab.self-de913c65731ac28b0f89f9f4887fd1ab7b4fd70e4d5781b70d9435f6e0feb59f.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/transition.self-fd09644aba07b912b7b860acbe21c4fe0425068627b00a39e446c04159a6b13e.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui.self-6e0ce65031e802f83e9c1e92b66a459ada9f1f5f6522ba6c8d8198228fd219c3.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/video.self-ef53a0040731bc2dd9e7238cdb39208b995a44d89c32a7d2cb27ad91f63ce3fd.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/startitup_logo.png" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/staticpages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/application.self-f98a0dd27ad1c55b2b9cfe97296d4887e5d4a4535b3bbbf9130c1050771738b2.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/api.self-b91495d5f4243ff171bf15363611a5a75b37e325681a2bab84ef52fd85e47a76.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/form.self-e901d0849a14a072e7c442a607b67963b650e18ae9250e24fd7b45f7de4c5743.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/state.self-eb37b88f399713936f32b66ddf5de8c17c720ecf4319b076809a19fdd5206fca.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/visibility.self-02f9fbfea1bdbdb0217270fd399e41eeddbf613856324ce6038c3037200c41bb.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/visit.self-8569f5e8496280307892949e69ab2cbe26e7b3ac3cb1e30a8bf3f75418a256a4.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/checkbox.self-e2fa593259f88422cb8b462903c92947c0592f58042f6c649a0e062f581e015f.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/dimmer.self-86b906ea661bdc3c153028dc1eb26694ccff51c3fb7e619898dcd794630a3c0d.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/dropdown.self-e6bc8f641617bd9b0438839102dd0a4fe13785fc8e33b50207d25c1ca515a630.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/modal.self-23f8e6a9a5f5a13e8ba8f848d5c5f9cbdd5d1a7159e300a78a50f90faf7c6abb.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/nag.self-e28bbe83184598e515413d0ed29a56b3d034a380cf6a3b6f8d1b5018b02b3004.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/popup.self-751a7257651e6a8d11e3fcda04a94de0fa27c14d719ca472c6027cbd95bfcbe0.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/progress.self-673b6febfbe4e7505dfa8c661674ae45fb0c5b262565d2eeba9e362183c5b6aa.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/search.self-edf600c5e5e5544d678503d4f6dd6be00e03e76f2a77166da81da306cc851ea7.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/shape.self-80060dc5eb5dc3e5f1600e103ffbe8c959db581a92421d3bc2ac8fbf98ce5551.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/sidebar.self-8403c2ed156dc1a2cf939aba5ff9e4a929b8f8d929635feb2dd15e4c58269c26.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/sticky.self-34df4b72b2c89efde0353741d241e473ee78b331632414e8e7a5752f7cc48d09.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/tab.self-de913c65731ac28b0f89f9f4887fd1ab7b4fd70e4d5781b70d9435f6e0feb59f.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/transition.self-fd09644aba07b912b7b860acbe21c4fe0425068627b00a39e446c04159a6b13e.js?body=1" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/semantic-ui/icons-66db52b456efe7e29cec11fa09421d03cb09e37ed1b567307ec0444fd605ce31.woff" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/sprite-nav-dd1b0eb7e3d7d71b07606e791743094a0d16f54b5400e4ba67c8ec92de5e4dc5.png" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/sprite-bg-black-c6aeba8d0356d82df6efa1fae3758efa2e9e943ad175e68b3aaff746499efb7b.png" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/startitup_logo.png" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/assets/bg-grey-tall-c7e96faa175c447d82cc518b33e21e70f0b17359d492a01d252fe94c81b9571b.png" for ::1 at 2015-04-21 00:06:38 -0700
+
+
+Started GET "/users/sign_up" for ::1 at 2015-04-21 00:25:13 -0700
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.html.erb (9.7ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (25.1ms)
+  Rendered shared/_navigation.html.slim (0.7ms)
+  Rendered shared/_footer.html.slim (0.1ms)
+Completed 200 OK in 24189ms (Views: 24187.8ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2015-04-21 00:25:37 -0700
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.html.erb (10.3ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (34.4ms)
+  Rendered shared/_navigation.html.slim (0.5ms)
+  Rendered shared/_footer.html.slim (0.1ms)
+Completed 200 OK in 431ms (Views: 429.1ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2015-04-21 00:25:37 -0700
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.html.erb (5.6ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (14.8ms)
+  Rendered shared/_navigation.html.slim (0.8ms)
+  Rendered shared/_footer.html.slim (0.1ms)
+Completed 200 OK in 933ms (Views: 930.6ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2015-04-21 00:25:38 -0700
+Processing by Devise::SessionsController#new as HTML
+  Rendered devise/shared/_links.html.erb (15.2ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (26.1ms)
+  Rendered shared/_navigation.html.slim (0.6ms)
+  Rendered shared/_footer.html.slim (0.1ms)
+Completed 200 OK in 293ms (Views: 291.3ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2015-04-21 00:25:39 -0700
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.html.erb (5.7ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (13.7ms)
+  Rendered shared/_navigation.html.slim (0.6ms)
+  Rendered shared/_footer.html.slim (0.1ms)
+Completed 200 OK in 245ms (Views: 243.5ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2015-04-21 00:25:39 -0700
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/shared/_links.html.erb (5.6ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (17.4ms)
+  Rendered shared/_navigation.html.slim (0.9ms)
+  Rendered shared/_footer.html.slim (0.1ms)
+Completed 200 OK in 280ms (Views: 278.0ms)
+
+
+Started GET "/assets/startitup_logo.png" for ::1 at 2015-04-21 00:25:39 -0700
+
+
+Started GET "/assets/application.self-b9d6a6815056740cb6c5a1e8566e7edafef7e289f9c3eff63deee24dbb651e43.css?body=1" for ::1 at 2015-04-21 00:25:39 -0700
+
+
+Started GET "/users/sign_up" for ::1 at 2015-04-21 00:26:56 -0700
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.slim within layouts/application (4.8ms)
+  Rendered shared/_navigation.html.slim (0.6ms)
+  Rendered shared/_footer.html.slim (0.1ms)
+Completed 200 OK in 235ms (Views: 233.0ms)
+
+
+Started GET "/assets/users.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-04-21 00:26:56 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-21 00:26:56 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-21 00:26:56 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-21 00:26:56 -0700
+
+
+Started GET "/assets/application.self-b9d6a6815056740cb6c5a1e8566e7edafef7e289f9c3eff63deee24dbb651e43.css?body=1" for ::1 at 2015-04-21 00:26:56 -0700
+
+
+Started GET "/assets/semantic-ui/api.self-b91495d5f4243ff171bf15363611a5a75b37e325681a2bab84ef52fd85e47a76.js?body=1" for ::1 at 2015-04-21 00:26:56 -0700
+
+
+Started GET "/assets/semantic-ui/colorize.self-91a797e44d5d59d8843b690ff99659b2f79d7ab5f71499b552b1b8d4246bb099.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/semantic-ui/form.self-e901d0849a14a072e7c442a607b67963b650e18ae9250e24fd7b45f7de4c5743.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/staticpages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/semantic-ui/state.self-eb37b88f399713936f32b66ddf5de8c17c720ecf4319b076809a19fdd5206fca.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/semantic-ui/visibility.self-02f9fbfea1bdbdb0217270fd399e41eeddbf613856324ce6038c3037200c41bb.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/semantic-ui/visit.self-8569f5e8496280307892949e69ab2cbe26e7b3ac3cb1e30a8bf3f75418a256a4.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/semantic-ui/site.self-41d357713bb5764d31c4bf6dd9fc8b352f11a43fbe2c759eda9179a52941d0d4.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/semantic-ui/accordion.self-e9355d5182181026834c44c63c944bd4aec8778248279170ce1f6759a71f9379.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/semantic-ui/dimmer.self-86b906ea661bdc3c153028dc1eb26694ccff51c3fb7e619898dcd794630a3c0d.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/semantic-ui/checkbox.self-e2fa593259f88422cb8b462903c92947c0592f58042f6c649a0e062f581e015f.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/semantic-ui/dropdown.self-e6bc8f641617bd9b0438839102dd0a4fe13785fc8e33b50207d25c1ca515a630.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/semantic-ui/modal.self-23f8e6a9a5f5a13e8ba8f848d5c5f9cbdd5d1a7159e300a78a50f90faf7c6abb.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/semantic-ui/nag.self-e28bbe83184598e515413d0ed29a56b3d034a380cf6a3b6f8d1b5018b02b3004.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/semantic-ui/popup.self-751a7257651e6a8d11e3fcda04a94de0fa27c14d719ca472c6027cbd95bfcbe0.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/semantic-ui/progress.self-673b6febfbe4e7505dfa8c661674ae45fb0c5b262565d2eeba9e362183c5b6aa.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/semantic-ui/search.self-edf600c5e5e5544d678503d4f6dd6be00e03e76f2a77166da81da306cc851ea7.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/semantic-ui/tab.self-de913c65731ac28b0f89f9f4887fd1ab7b4fd70e4d5781b70d9435f6e0feb59f.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/semantic-ui/sticky.self-34df4b72b2c89efde0353741d241e473ee78b331632414e8e7a5752f7cc48d09.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/semantic-ui/sidebar.self-8403c2ed156dc1a2cf939aba5ff9e4a929b8f8d929635feb2dd15e4c58269c26.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/semantic-ui/rating.self-2950cb0cc12371f1da3063a74d48d57a8fe49a8b17fe7bbcaf066b7b7e989c64.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/semantic-ui/shape.self-80060dc5eb5dc3e5f1600e103ffbe8c959db581a92421d3bc2ac8fbf98ce5551.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/semantic-ui/video.self-ef53a0040731bc2dd9e7238cdb39208b995a44d89c32a7d2cb27ad91f63ce3fd.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/semantic-ui/transition.self-fd09644aba07b912b7b860acbe21c4fe0425068627b00a39e446c04159a6b13e.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/semantic-ui.self-6e0ce65031e802f83e9c1e92b66a459ada9f1f5f6522ba6c8d8198228fd219c3.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/staticpages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/application.self-f98a0dd27ad1c55b2b9cfe97296d4887e5d4a4535b3bbbf9130c1050771738b2.js?body=1" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/startitup_logo.png" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/sprite-nav-dd1b0eb7e3d7d71b07606e791743094a0d16f54b5400e4ba67c8ec92de5e4dc5.png" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/sprite-bg-black-c6aeba8d0356d82df6efa1fae3758efa2e9e943ad175e68b3aaff746499efb7b.png" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/bg-grey-tall-c7e96faa175c447d82cc518b33e21e70f0b17359d492a01d252fe94c81b9571b.png" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/assets/semantic-ui/icons-66db52b456efe7e29cec11fa09421d03cb09e37ed1b567307ec0444fd605ce31.woff" for ::1 at 2015-04-21 00:26:57 -0700
+
+
+Started GET "/users/sign_up" for ::1 at 2015-04-21 00:28:06 -0700
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.slim within layouts/application (73.2ms)
+Completed 500 Internal Server Error in 79ms
+
+NoMethodError - undefined method `devise_error_message!' for #<#<Class:0x007fdf95c0f9f0>:0x007fdf79881160>:
+  app/views/devise/registrations/new.html.slim:3:in `block in _app_views_devise_registrations_new_html_slim__4440693447489371965_70298896719480'
+  actionview (4.2.0) lib/action_view/helpers/capture_helper.rb:38:in `block in capture'
+  actionview (4.2.0) lib/action_view/helpers/capture_helper.rb:200:in `with_output_buffer'
+  actionview (4.2.0) lib/action_view/helpers/capture_helper.rb:38:in `capture'
+  actionview (4.2.0) lib/action_view/helpers/form_helper.rb:444:in `form_for'
+  app/views/devise/registrations/new.html.slim:2:in `_app_views_devise_registrations_new_html_slim__4440693447489371965_70298896719480'
+  actionview (4.2.0) lib/action_view/template.rb:145:in `block in render'
+  activesupport (4.2.0) lib/active_support/notifications.rb:166:in `instrument'
+  actionview (4.2.0) lib/action_view/template.rb:333:in `instrument'
+  actionview (4.2.0) lib/action_view/template.rb:143:in `render'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:54:in `block (2 levels) in render_template'
+  actionview (4.2.0) lib/action_view/renderer/abstract_renderer.rb:39:in `block in instrument'
+  activesupport (4.2.0) lib/active_support/notifications.rb:164:in `block in instrument'
+  activesupport (4.2.0) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.2.0) lib/active_support/notifications.rb:164:in `instrument'
+  actionview (4.2.0) lib/action_view/renderer/abstract_renderer.rb:39:in `instrument'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:53:in `block in render_template'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:61:in `render_with_layout'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:52:in `render_template'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:14:in `render'
+  actionview (4.2.0) lib/action_view/renderer/renderer.rb:42:in `render_template'
+  actionview (4.2.0) lib/action_view/renderer/renderer.rb:23:in `render'
+  actionview (4.2.0) lib/action_view/rendering.rb:100:in `_render_template'
+  actionpack (4.2.0) lib/action_controller/metal/streaming.rb:217:in `_render_template'
+  actionview (4.2.0) lib/action_view/rendering.rb:83:in `render_to_body'
+  actionpack (4.2.0) lib/action_controller/metal/rendering.rb:32:in `render_to_body'
+  actionpack (4.2.0) lib/action_controller/metal/renderers.rb:37:in `render_to_body'
+  actionpack (4.2.0) lib/abstract_controller/rendering.rb:25:in `render'
+  actionpack (4.2.0) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:41:in `block (2 levels) in render'
+  activesupport (4.2.0) lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+  /Users/mac/.rbenv/versions/2.1.3/lib/ruby/2.1.0/benchmark.rb:294:in `realtime'
+  activesupport (4.2.0) lib/active_support/core_ext/benchmark.rb:12:in `ms'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:41:in `block in render'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:84:in `cleanup_view_runtime'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:40:in `render'
+  actionpack (4.2.0) lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  responders (2.1.0) lib/action_controller/responder.rb:236:in `default_render'
+  responders (2.1.0) lib/action_controller/responder.rb:170:in `to_html'
+  responders (2.1.0) lib/action_controller/responder.rb:163:in `respond'
+  responders (2.1.0) lib/action_controller/responder.rb:156:in `call'
+  responders (2.1.0) lib/action_controller/respond_with.rb:203:in `respond_with'
+  devise (3.4.1) app/controllers/devise/registrations_controller.rb:12:in `new'
+  actionpack (4.2.0) lib/action_controller/metal/implicit_render.rb:4:in `send_action'
+  actionpack (4.2.0) lib/abstract_controller/base.rb:198:in `process_action'
+  actionpack (4.2.0) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (4.2.0) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:117:in `call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:234:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:234:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:151:in `block in halting_and_conditional'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:151:in `block in halting_and_conditional'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:92:in `_run_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:734:in `_run_process_action_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.0) lib/abstract_controller/callbacks.rb:19:in `process_action'
+  actionpack (4.2.0) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+  activesupport (4.2.0) lib/active_support/notifications.rb:164:in `block in instrument'
+  activesupport (4.2.0) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.2.0) lib/active_support/notifications.rb:164:in `instrument'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.2.0) lib/action_controller/metal/params_wrapper.rb:250:in `process_action'
+  actionpack (4.2.0) lib/abstract_controller/base.rb:137:in `process'
+  actionview (4.2.0) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.2.0) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.2.0) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.2.0) lib/action_controller/metal.rb:236:in `block in action'
+  actionpack (4.2.0) lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  actionpack (4.2.0) lib/action_dispatch/routing/route_set.rb:42:in `serve'
+  actionpack (4.2.0) lib/action_dispatch/routing/mapper.rb:49:in `serve'
+  actionpack (4.2.0) lib/action_dispatch/journey/router.rb:43:in `block in serve'
+  actionpack (4.2.0) lib/action_dispatch/journey/router.rb:30:in `serve'
+  actionpack (4.2.0) lib/action_dispatch/routing/route_set.rb:802:in `call'
+  warden (1.2.3) lib/warden/manager.rb:35:in `block in call'
+  warden (1.2.3) lib/warden/manager.rb:34:in `call'
+  rack (1.6.0) lib/rack/etag.rb:24:in `call'
+  rack (1.6.0) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.0) lib/rack/head.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `_run_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:734:in `_run_call_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  better_errors (2.1.1) lib/better_errors/middleware.rb:84:in `protected_app_call'
+  better_errors (2.1.1) lib/better_errors/middleware.rb:79:in `better_errors_call'
+  better_errors (2.1.1) lib/better_errors/middleware.rb:57:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.1.2) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /Users/mac/.rbenv/versions/2.1.3/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/mac/.rbenv/versions/2.1.3/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/mac/.rbenv/versions/2.1.3/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+
+Started POST "/__better_errors/c9ade5bc6bf5394b/variables" for ::1 at 2015-04-21 00:28:07 -0700
+
+
+Started GET "/users/sign_up" for ::1 at 2015-04-21 00:28:15 -0700
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.slim within layouts/application (11.8ms)
+  Rendered shared/_navigation.html.slim (0.6ms)
+  Rendered shared/_footer.html.slim (0.1ms)
+Completed 200 OK in 232ms (Views: 231.1ms)
+
+
+Started GET "/assets/users.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/application.self-b9d6a6815056740cb6c5a1e8566e7edafef7e289f9c3eff63deee24dbb651e43.css?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/semantic-ui/colorize.self-91a797e44d5d59d8843b690ff99659b2f79d7ab5f71499b552b1b8d4246bb099.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/staticpages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/semantic-ui/api.self-b91495d5f4243ff171bf15363611a5a75b37e325681a2bab84ef52fd85e47a76.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/semantic-ui/form.self-e901d0849a14a072e7c442a607b67963b650e18ae9250e24fd7b45f7de4c5743.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/semantic-ui/visibility.self-02f9fbfea1bdbdb0217270fd399e41eeddbf613856324ce6038c3037200c41bb.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/semantic-ui/state.self-eb37b88f399713936f32b66ddf5de8c17c720ecf4319b076809a19fdd5206fca.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/semantic-ui/visit.self-8569f5e8496280307892949e69ab2cbe26e7b3ac3cb1e30a8bf3f75418a256a4.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/semantic-ui/site.self-41d357713bb5764d31c4bf6dd9fc8b352f11a43fbe2c759eda9179a52941d0d4.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/semantic-ui/accordion.self-e9355d5182181026834c44c63c944bd4aec8778248279170ce1f6759a71f9379.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/semantic-ui/checkbox.self-e2fa593259f88422cb8b462903c92947c0592f58042f6c649a0e062f581e015f.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/semantic-ui/popup.self-751a7257651e6a8d11e3fcda04a94de0fa27c14d719ca472c6027cbd95bfcbe0.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/semantic-ui/dropdown.self-e6bc8f641617bd9b0438839102dd0a4fe13785fc8e33b50207d25c1ca515a630.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/semantic-ui/modal.self-23f8e6a9a5f5a13e8ba8f848d5c5f9cbdd5d1a7159e300a78a50f90faf7c6abb.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/semantic-ui/dimmer.self-86b906ea661bdc3c153028dc1eb26694ccff51c3fb7e619898dcd794630a3c0d.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/semantic-ui/nag.self-e28bbe83184598e515413d0ed29a56b3d034a380cf6a3b6f8d1b5018b02b3004.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/semantic-ui/progress.self-673b6febfbe4e7505dfa8c661674ae45fb0c5b262565d2eeba9e362183c5b6aa.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/semantic-ui/rating.self-2950cb0cc12371f1da3063a74d48d57a8fe49a8b17fe7bbcaf066b7b7e989c64.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/semantic-ui/search.self-edf600c5e5e5544d678503d4f6dd6be00e03e76f2a77166da81da306cc851ea7.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/semantic-ui/shape.self-80060dc5eb5dc3e5f1600e103ffbe8c959db581a92421d3bc2ac8fbf98ce5551.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/semantic-ui/sidebar.self-8403c2ed156dc1a2cf939aba5ff9e4a929b8f8d929635feb2dd15e4c58269c26.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/semantic-ui/sticky.self-34df4b72b2c89efde0353741d241e473ee78b331632414e8e7a5752f7cc48d09.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/semantic-ui/tab.self-de913c65731ac28b0f89f9f4887fd1ab7b4fd70e4d5781b70d9435f6e0feb59f.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/semantic-ui/transition.self-fd09644aba07b912b7b860acbe21c4fe0425068627b00a39e446c04159a6b13e.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/semantic-ui/video.self-ef53a0040731bc2dd9e7238cdb39208b995a44d89c32a7d2cb27ad91f63ce3fd.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/semantic-ui.self-6e0ce65031e802f83e9c1e92b66a459ada9f1f5f6522ba6c8d8198228fd219c3.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/startitup_logo.png" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/staticpages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/application.self-f98a0dd27ad1c55b2b9cfe97296d4887e5d4a4535b3bbbf9130c1050771738b2.js?body=1" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/sprite-bg-black-c6aeba8d0356d82df6efa1fae3758efa2e9e943ad175e68b3aaff746499efb7b.png" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/bg-grey-tall-c7e96faa175c447d82cc518b33e21e70f0b17359d492a01d252fe94c81b9571b.png" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/semantic-ui/icons-66db52b456efe7e29cec11fa09421d03cb09e37ed1b567307ec0444fd605ce31.woff" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/assets/sprite-nav-dd1b0eb7e3d7d71b07606e791743094a0d16f54b5400e4ba67c8ec92de5e4dc5.png" for ::1 at 2015-04-21 00:28:16 -0700
+
+
+Started GET "/users/sign_up" for ::1 at 2015-04-21 00:29:10 -0700
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.slim within layouts/application (12.4ms)
+  Rendered shared/_navigation.html.slim (0.6ms)
+  Rendered shared/_footer.html.slim (0.1ms)
+Completed 200 OK in 337ms (Views: 335.6ms)
+
+
+Started GET "/assets/staticpages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/application.self-b9d6a6815056740cb6c5a1e8566e7edafef7e289f9c3eff63deee24dbb651e43.css?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/users.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/semantic-ui/api.self-b91495d5f4243ff171bf15363611a5a75b37e325681a2bab84ef52fd85e47a76.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/semantic-ui/form.self-e901d0849a14a072e7c442a607b67963b650e18ae9250e24fd7b45f7de4c5743.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/semantic-ui/visit.self-8569f5e8496280307892949e69ab2cbe26e7b3ac3cb1e30a8bf3f75418a256a4.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/semantic-ui/state.self-eb37b88f399713936f32b66ddf5de8c17c720ecf4319b076809a19fdd5206fca.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/semantic-ui/visibility.self-02f9fbfea1bdbdb0217270fd399e41eeddbf613856324ce6038c3037200c41bb.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/semantic-ui/colorize.self-91a797e44d5d59d8843b690ff99659b2f79d7ab5f71499b552b1b8d4246bb099.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/semantic-ui/site.self-41d357713bb5764d31c4bf6dd9fc8b352f11a43fbe2c759eda9179a52941d0d4.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/semantic-ui/accordion.self-e9355d5182181026834c44c63c944bd4aec8778248279170ce1f6759a71f9379.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/semantic-ui/checkbox.self-e2fa593259f88422cb8b462903c92947c0592f58042f6c649a0e062f581e015f.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/semantic-ui/dimmer.self-86b906ea661bdc3c153028dc1eb26694ccff51c3fb7e619898dcd794630a3c0d.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/semantic-ui/dropdown.self-e6bc8f641617bd9b0438839102dd0a4fe13785fc8e33b50207d25c1ca515a630.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/semantic-ui/modal.self-23f8e6a9a5f5a13e8ba8f848d5c5f9cbdd5d1a7159e300a78a50f90faf7c6abb.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/semantic-ui/nag.self-e28bbe83184598e515413d0ed29a56b3d034a380cf6a3b6f8d1b5018b02b3004.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/semantic-ui/popup.self-751a7257651e6a8d11e3fcda04a94de0fa27c14d719ca472c6027cbd95bfcbe0.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/semantic-ui/rating.self-2950cb0cc12371f1da3063a74d48d57a8fe49a8b17fe7bbcaf066b7b7e989c64.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/semantic-ui/progress.self-673b6febfbe4e7505dfa8c661674ae45fb0c5b262565d2eeba9e362183c5b6aa.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/semantic-ui/sidebar.self-8403c2ed156dc1a2cf939aba5ff9e4a929b8f8d929635feb2dd15e4c58269c26.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/semantic-ui/search.self-edf600c5e5e5544d678503d4f6dd6be00e03e76f2a77166da81da306cc851ea7.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/semantic-ui/sticky.self-34df4b72b2c89efde0353741d241e473ee78b331632414e8e7a5752f7cc48d09.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/semantic-ui/shape.self-80060dc5eb5dc3e5f1600e103ffbe8c959db581a92421d3bc2ac8fbf98ce5551.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/semantic-ui/tab.self-de913c65731ac28b0f89f9f4887fd1ab7b4fd70e4d5781b70d9435f6e0feb59f.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/semantic-ui/transition.self-fd09644aba07b912b7b860acbe21c4fe0425068627b00a39e446c04159a6b13e.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/semantic-ui.self-6e0ce65031e802f83e9c1e92b66a459ada9f1f5f6522ba6c8d8198228fd219c3.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/semantic-ui/video.self-ef53a0040731bc2dd9e7238cdb39208b995a44d89c32a7d2cb27ad91f63ce3fd.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/staticpages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/application.self-f98a0dd27ad1c55b2b9cfe97296d4887e5d4a4535b3bbbf9130c1050771738b2.js?body=1" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/startitup_logo.png" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/sprite-bg-black-c6aeba8d0356d82df6efa1fae3758efa2e9e943ad175e68b3aaff746499efb7b.png" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/bg-grey-tall-c7e96faa175c447d82cc518b33e21e70f0b17359d492a01d252fe94c81b9571b.png" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/sprite-nav-dd1b0eb7e3d7d71b07606e791743094a0d16f54b5400e4ba67c8ec92de5e4dc5.png" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/assets/semantic-ui/icons-66db52b456efe7e29cec11fa09421d03cb09e37ed1b567307ec0444fd605ce31.woff" for ::1 at 2015-04-21 00:29:11 -0700
+
+
+Started GET "/users/sign_up" for ::1 at 2015-04-21 00:31:20 -0700
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.slim within layouts/application (6.3ms)
+Completed 500 Internal Server Error in 13ms
+
+Slim::Parser::SyntaxError - Expected attribute
+  /Users/mac/Side_Projects/Volunteer_project/alumni/app/views/devise/registrations/new.html.slim, Line 12, Column 8
+    em (<%= @minimum_password_length %> characters minimum)
+        ^
+:
+  slim (3.0.3) lib/slim/parser.rb:499:in `syntax_error!'
+  slim (3.0.3) lib/slim/parser.rb:437:in `parse_attributes'
+  slim (3.0.3) lib/slim/parser.rb:338:in `parse_tag'
+  slim (3.0.3) lib/slim/parser.rb:242:in `parse_line_indicators'
+  slim (3.0.3) lib/slim/parser.rb:186:in `parse_line'
+  slim (3.0.3) lib/slim/parser.rb:89:in `call'
+  temple (0.7.5) lib/temple/engine.rb:50:in `block in call'
+  temple (0.7.5) lib/temple/engine.rb:50:in `call'
+  temple (0.7.5) lib/temple/mixins/template.rb:10:in `compile'
+  temple (0.7.5) lib/temple/templates/rails.rb:8:in `call'
+  actionview (4.2.0) lib/action_view/template.rb:270:in `compile'
+  actionview (4.2.0) lib/action_view/template.rb:245:in `block (2 levels) in compile!'
+  activesupport (4.2.0) lib/active_support/notifications.rb:166:in `instrument'
+  actionview (4.2.0) lib/action_view/template.rb:333:in `instrument'
+  actionview (4.2.0) lib/action_view/template.rb:244:in `block in compile!'
+  actionview (4.2.0) lib/action_view/template.rb:232:in `compile!'
+  actionview (4.2.0) lib/action_view/template.rb:144:in `block in render'
+  activesupport (4.2.0) lib/active_support/notifications.rb:166:in `instrument'
+  actionview (4.2.0) lib/action_view/template.rb:333:in `instrument'
+  actionview (4.2.0) lib/action_view/template.rb:143:in `render'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:54:in `block (2 levels) in render_template'
+  actionview (4.2.0) lib/action_view/renderer/abstract_renderer.rb:39:in `block in instrument'
+  activesupport (4.2.0) lib/active_support/notifications.rb:164:in `block in instrument'
+  activesupport (4.2.0) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.2.0) lib/active_support/notifications.rb:164:in `instrument'
+  actionview (4.2.0) lib/action_view/renderer/abstract_renderer.rb:39:in `instrument'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:53:in `block in render_template'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:61:in `render_with_layout'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:52:in `render_template'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:14:in `render'
+  actionview (4.2.0) lib/action_view/renderer/renderer.rb:42:in `render_template'
+  actionview (4.2.0) lib/action_view/renderer/renderer.rb:23:in `render'
+  actionview (4.2.0) lib/action_view/rendering.rb:100:in `_render_template'
+  actionpack (4.2.0) lib/action_controller/metal/streaming.rb:217:in `_render_template'
+  actionview (4.2.0) lib/action_view/rendering.rb:83:in `render_to_body'
+  actionpack (4.2.0) lib/action_controller/metal/rendering.rb:32:in `render_to_body'
+  actionpack (4.2.0) lib/action_controller/metal/renderers.rb:37:in `render_to_body'
+  actionpack (4.2.0) lib/abstract_controller/rendering.rb:25:in `render'
+  actionpack (4.2.0) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:41:in `block (2 levels) in render'
+  activesupport (4.2.0) lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+  /Users/mac/.rbenv/versions/2.1.3/lib/ruby/2.1.0/benchmark.rb:294:in `realtime'
+  activesupport (4.2.0) lib/active_support/core_ext/benchmark.rb:12:in `ms'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:41:in `block in render'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:84:in `cleanup_view_runtime'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:40:in `render'
+  actionpack (4.2.0) lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  responders (2.1.0) lib/action_controller/responder.rb:236:in `default_render'
+  responders (2.1.0) lib/action_controller/responder.rb:170:in `to_html'
+  responders (2.1.0) lib/action_controller/responder.rb:163:in `respond'
+  responders (2.1.0) lib/action_controller/responder.rb:156:in `call'
+  responders (2.1.0) lib/action_controller/respond_with.rb:203:in `respond_with'
+  devise (3.4.1) app/controllers/devise/registrations_controller.rb:12:in `new'
+  actionpack (4.2.0) lib/action_controller/metal/implicit_render.rb:4:in `send_action'
+  actionpack (4.2.0) lib/abstract_controller/base.rb:198:in `process_action'
+  actionpack (4.2.0) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (4.2.0) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:117:in `call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:234:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:234:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:151:in `block in halting_and_conditional'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:151:in `block in halting_and_conditional'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:92:in `_run_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:734:in `_run_process_action_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.0) lib/abstract_controller/callbacks.rb:19:in `process_action'
+  actionpack (4.2.0) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+  activesupport (4.2.0) lib/active_support/notifications.rb:164:in `block in instrument'
+  activesupport (4.2.0) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.2.0) lib/active_support/notifications.rb:164:in `instrument'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.2.0) lib/action_controller/metal/params_wrapper.rb:250:in `process_action'
+  actionpack (4.2.0) lib/abstract_controller/base.rb:137:in `process'
+  actionview (4.2.0) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.2.0) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.2.0) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.2.0) lib/action_controller/metal.rb:236:in `block in action'
+  actionpack (4.2.0) lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  actionpack (4.2.0) lib/action_dispatch/routing/route_set.rb:42:in `serve'
+  actionpack (4.2.0) lib/action_dispatch/routing/mapper.rb:49:in `serve'
+  actionpack (4.2.0) lib/action_dispatch/journey/router.rb:43:in `block in serve'
+  actionpack (4.2.0) lib/action_dispatch/journey/router.rb:30:in `serve'
+  actionpack (4.2.0) lib/action_dispatch/routing/route_set.rb:802:in `call'
+  warden (1.2.3) lib/warden/manager.rb:35:in `block in call'
+  warden (1.2.3) lib/warden/manager.rb:34:in `call'
+  rack (1.6.0) lib/rack/etag.rb:24:in `call'
+  rack (1.6.0) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.0) lib/rack/head.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `_run_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:734:in `_run_call_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  better_errors (2.1.1) lib/better_errors/middleware.rb:84:in `protected_app_call'
+  better_errors (2.1.1) lib/better_errors/middleware.rb:79:in `better_errors_call'
+  better_errors (2.1.1) lib/better_errors/middleware.rb:57:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.1.2) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /Users/mac/.rbenv/versions/2.1.3/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/mac/.rbenv/versions/2.1.3/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/mac/.rbenv/versions/2.1.3/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+
+Started POST "/__better_errors/5c8b26de875e56b6/variables" for ::1 at 2015-04-21 00:31:20 -0700
+
+
+Started GET "/users/sign_up" for ::1 at 2015-04-21 00:31:58 -0700
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.slim within layouts/application (9.5ms)
+Completed 500 Internal Server Error in 17ms
+
+Slim::Parser::SyntaxError - Expected attribute
+  /Users/mac/Side_Projects/Volunteer_project/alumni/app/views/devise/registrations/new.html.slim, Line 12, Column 8
+    em (<%= @minimum_password_length %> characters minimum)
+        ^
+:
+  slim (3.0.3) lib/slim/parser.rb:499:in `syntax_error!'
+  slim (3.0.3) lib/slim/parser.rb:437:in `parse_attributes'
+  slim (3.0.3) lib/slim/parser.rb:338:in `parse_tag'
+  slim (3.0.3) lib/slim/parser.rb:242:in `parse_line_indicators'
+  slim (3.0.3) lib/slim/parser.rb:186:in `parse_line'
+  slim (3.0.3) lib/slim/parser.rb:89:in `call'
+  temple (0.7.5) lib/temple/engine.rb:50:in `block in call'
+  temple (0.7.5) lib/temple/engine.rb:50:in `call'
+  temple (0.7.5) lib/temple/mixins/template.rb:10:in `compile'
+  temple (0.7.5) lib/temple/templates/rails.rb:8:in `call'
+  actionview (4.2.0) lib/action_view/template.rb:270:in `compile'
+  actionview (4.2.0) lib/action_view/template.rb:245:in `block (2 levels) in compile!'
+  activesupport (4.2.0) lib/active_support/notifications.rb:166:in `instrument'
+  actionview (4.2.0) lib/action_view/template.rb:333:in `instrument'
+  actionview (4.2.0) lib/action_view/template.rb:244:in `block in compile!'
+  actionview (4.2.0) lib/action_view/template.rb:232:in `compile!'
+  actionview (4.2.0) lib/action_view/template.rb:144:in `block in render'
+  activesupport (4.2.0) lib/active_support/notifications.rb:166:in `instrument'
+  actionview (4.2.0) lib/action_view/template.rb:333:in `instrument'
+  actionview (4.2.0) lib/action_view/template.rb:143:in `render'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:54:in `block (2 levels) in render_template'
+  actionview (4.2.0) lib/action_view/renderer/abstract_renderer.rb:39:in `block in instrument'
+  activesupport (4.2.0) lib/active_support/notifications.rb:164:in `block in instrument'
+  activesupport (4.2.0) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.2.0) lib/active_support/notifications.rb:164:in `instrument'
+  actionview (4.2.0) lib/action_view/renderer/abstract_renderer.rb:39:in `instrument'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:53:in `block in render_template'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:61:in `render_with_layout'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:52:in `render_template'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:14:in `render'
+  actionview (4.2.0) lib/action_view/renderer/renderer.rb:42:in `render_template'
+  actionview (4.2.0) lib/action_view/renderer/renderer.rb:23:in `render'
+  actionview (4.2.0) lib/action_view/rendering.rb:100:in `_render_template'
+  actionpack (4.2.0) lib/action_controller/metal/streaming.rb:217:in `_render_template'
+  actionview (4.2.0) lib/action_view/rendering.rb:83:in `render_to_body'
+  actionpack (4.2.0) lib/action_controller/metal/rendering.rb:32:in `render_to_body'
+  actionpack (4.2.0) lib/action_controller/metal/renderers.rb:37:in `render_to_body'
+  actionpack (4.2.0) lib/abstract_controller/rendering.rb:25:in `render'
+  actionpack (4.2.0) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:41:in `block (2 levels) in render'
+  activesupport (4.2.0) lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+  /Users/mac/.rbenv/versions/2.1.3/lib/ruby/2.1.0/benchmark.rb:294:in `realtime'
+  activesupport (4.2.0) lib/active_support/core_ext/benchmark.rb:12:in `ms'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:41:in `block in render'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:84:in `cleanup_view_runtime'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:40:in `render'
+  actionpack (4.2.0) lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  responders (2.1.0) lib/action_controller/responder.rb:236:in `default_render'
+  responders (2.1.0) lib/action_controller/responder.rb:170:in `to_html'
+  responders (2.1.0) lib/action_controller/responder.rb:163:in `respond'
+  responders (2.1.0) lib/action_controller/responder.rb:156:in `call'
+  responders (2.1.0) lib/action_controller/respond_with.rb:203:in `respond_with'
+  devise (3.4.1) app/controllers/devise/registrations_controller.rb:12:in `new'
+  actionpack (4.2.0) lib/action_controller/metal/implicit_render.rb:4:in `send_action'
+  actionpack (4.2.0) lib/abstract_controller/base.rb:198:in `process_action'
+  actionpack (4.2.0) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (4.2.0) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:117:in `call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:234:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:234:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:151:in `block in halting_and_conditional'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:151:in `block in halting_and_conditional'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:92:in `_run_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:734:in `_run_process_action_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.0) lib/abstract_controller/callbacks.rb:19:in `process_action'
+  actionpack (4.2.0) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+  activesupport (4.2.0) lib/active_support/notifications.rb:164:in `block in instrument'
+  activesupport (4.2.0) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.2.0) lib/active_support/notifications.rb:164:in `instrument'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.2.0) lib/action_controller/metal/params_wrapper.rb:250:in `process_action'
+  actionpack (4.2.0) lib/abstract_controller/base.rb:137:in `process'
+  actionview (4.2.0) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.2.0) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.2.0) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.2.0) lib/action_controller/metal.rb:236:in `block in action'
+  actionpack (4.2.0) lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  actionpack (4.2.0) lib/action_dispatch/routing/route_set.rb:42:in `serve'
+  actionpack (4.2.0) lib/action_dispatch/routing/mapper.rb:49:in `serve'
+  actionpack (4.2.0) lib/action_dispatch/journey/router.rb:43:in `block in serve'
+  actionpack (4.2.0) lib/action_dispatch/journey/router.rb:30:in `serve'
+  actionpack (4.2.0) lib/action_dispatch/routing/route_set.rb:802:in `call'
+  warden (1.2.3) lib/warden/manager.rb:35:in `block in call'
+  warden (1.2.3) lib/warden/manager.rb:34:in `call'
+  rack (1.6.0) lib/rack/etag.rb:24:in `call'
+  rack (1.6.0) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.0) lib/rack/head.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `_run_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:734:in `_run_call_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  better_errors (2.1.1) lib/better_errors/middleware.rb:84:in `protected_app_call'
+  better_errors (2.1.1) lib/better_errors/middleware.rb:79:in `better_errors_call'
+  better_errors (2.1.1) lib/better_errors/middleware.rb:57:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.1.2) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /Users/mac/.rbenv/versions/2.1.3/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/mac/.rbenv/versions/2.1.3/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/mac/.rbenv/versions/2.1.3/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+
+Started POST "/__better_errors/b18fc653db05df5a/variables" for ::1 at 2015-04-21 00:31:58 -0700
+
+
+Started GET "/users/sign_up" for ::1 at 2015-04-21 00:34:15 -0700
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.slim within layouts/application (5.5ms)
+Completed 500 Internal Server Error in 11ms
+
+Slim::Parser::SyntaxError - Expected attribute
+  /Users/mac/Side_Projects/Volunteer_project/alumni/app/views/devise/registrations/new.html.slim, Line 12, Column 8
+    em (<%= @minimum_password_length %> characters minimum)
+        ^
+:
+  slim (3.0.3) lib/slim/parser.rb:499:in `syntax_error!'
+  slim (3.0.3) lib/slim/parser.rb:437:in `parse_attributes'
+  slim (3.0.3) lib/slim/parser.rb:338:in `parse_tag'
+  slim (3.0.3) lib/slim/parser.rb:242:in `parse_line_indicators'
+  slim (3.0.3) lib/slim/parser.rb:186:in `parse_line'
+  slim (3.0.3) lib/slim/parser.rb:89:in `call'
+  temple (0.7.5) lib/temple/engine.rb:50:in `block in call'
+  temple (0.7.5) lib/temple/engine.rb:50:in `call'
+  temple (0.7.5) lib/temple/mixins/template.rb:10:in `compile'
+  temple (0.7.5) lib/temple/templates/rails.rb:8:in `call'
+  actionview (4.2.0) lib/action_view/template.rb:270:in `compile'
+  actionview (4.2.0) lib/action_view/template.rb:245:in `block (2 levels) in compile!'
+  activesupport (4.2.0) lib/active_support/notifications.rb:166:in `instrument'
+  actionview (4.2.0) lib/action_view/template.rb:333:in `instrument'
+  actionview (4.2.0) lib/action_view/template.rb:244:in `block in compile!'
+  actionview (4.2.0) lib/action_view/template.rb:232:in `compile!'
+  actionview (4.2.0) lib/action_view/template.rb:144:in `block in render'
+  activesupport (4.2.0) lib/active_support/notifications.rb:166:in `instrument'
+  actionview (4.2.0) lib/action_view/template.rb:333:in `instrument'
+  actionview (4.2.0) lib/action_view/template.rb:143:in `render'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:54:in `block (2 levels) in render_template'
+  actionview (4.2.0) lib/action_view/renderer/abstract_renderer.rb:39:in `block in instrument'
+  activesupport (4.2.0) lib/active_support/notifications.rb:164:in `block in instrument'
+  activesupport (4.2.0) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.2.0) lib/active_support/notifications.rb:164:in `instrument'
+  actionview (4.2.0) lib/action_view/renderer/abstract_renderer.rb:39:in `instrument'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:53:in `block in render_template'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:61:in `render_with_layout'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:52:in `render_template'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:14:in `render'
+  actionview (4.2.0) lib/action_view/renderer/renderer.rb:42:in `render_template'
+  actionview (4.2.0) lib/action_view/renderer/renderer.rb:23:in `render'
+  actionview (4.2.0) lib/action_view/rendering.rb:100:in `_render_template'
+  actionpack (4.2.0) lib/action_controller/metal/streaming.rb:217:in `_render_template'
+  actionview (4.2.0) lib/action_view/rendering.rb:83:in `render_to_body'
+  actionpack (4.2.0) lib/action_controller/metal/rendering.rb:32:in `render_to_body'
+  actionpack (4.2.0) lib/action_controller/metal/renderers.rb:37:in `render_to_body'
+  actionpack (4.2.0) lib/abstract_controller/rendering.rb:25:in `render'
+  actionpack (4.2.0) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:41:in `block (2 levels) in render'
+  activesupport (4.2.0) lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+  /Users/mac/.rbenv/versions/2.1.3/lib/ruby/2.1.0/benchmark.rb:294:in `realtime'
+  activesupport (4.2.0) lib/active_support/core_ext/benchmark.rb:12:in `ms'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:41:in `block in render'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:84:in `cleanup_view_runtime'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:40:in `render'
+  actionpack (4.2.0) lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  responders (2.1.0) lib/action_controller/responder.rb:236:in `default_render'
+  responders (2.1.0) lib/action_controller/responder.rb:170:in `to_html'
+  responders (2.1.0) lib/action_controller/responder.rb:163:in `respond'
+  responders (2.1.0) lib/action_controller/responder.rb:156:in `call'
+  responders (2.1.0) lib/action_controller/respond_with.rb:203:in `respond_with'
+  devise (3.4.1) app/controllers/devise/registrations_controller.rb:12:in `new'
+  actionpack (4.2.0) lib/action_controller/metal/implicit_render.rb:4:in `send_action'
+  actionpack (4.2.0) lib/abstract_controller/base.rb:198:in `process_action'
+  actionpack (4.2.0) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (4.2.0) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:117:in `call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:234:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:234:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:151:in `block in halting_and_conditional'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:151:in `block in halting_and_conditional'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:92:in `_run_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:734:in `_run_process_action_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.0) lib/abstract_controller/callbacks.rb:19:in `process_action'
+  actionpack (4.2.0) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+  activesupport (4.2.0) lib/active_support/notifications.rb:164:in `block in instrument'
+  activesupport (4.2.0) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.2.0) lib/active_support/notifications.rb:164:in `instrument'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.2.0) lib/action_controller/metal/params_wrapper.rb:250:in `process_action'
+  actionpack (4.2.0) lib/abstract_controller/base.rb:137:in `process'
+  actionview (4.2.0) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.2.0) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.2.0) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.2.0) lib/action_controller/metal.rb:236:in `block in action'
+  actionpack (4.2.0) lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  actionpack (4.2.0) lib/action_dispatch/routing/route_set.rb:42:in `serve'
+  actionpack (4.2.0) lib/action_dispatch/routing/mapper.rb:49:in `serve'
+  actionpack (4.2.0) lib/action_dispatch/journey/router.rb:43:in `block in serve'
+  actionpack (4.2.0) lib/action_dispatch/journey/router.rb:30:in `serve'
+  actionpack (4.2.0) lib/action_dispatch/routing/route_set.rb:802:in `call'
+  warden (1.2.3) lib/warden/manager.rb:35:in `block in call'
+  warden (1.2.3) lib/warden/manager.rb:34:in `call'
+  rack (1.6.0) lib/rack/etag.rb:24:in `call'
+  rack (1.6.0) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.0) lib/rack/head.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `_run_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:734:in `_run_call_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  better_errors (2.1.1) lib/better_errors/middleware.rb:84:in `protected_app_call'
+  better_errors (2.1.1) lib/better_errors/middleware.rb:79:in `better_errors_call'
+  better_errors (2.1.1) lib/better_errors/middleware.rb:57:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.1.2) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /Users/mac/.rbenv/versions/2.1.3/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/mac/.rbenv/versions/2.1.3/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/mac/.rbenv/versions/2.1.3/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+
+Started POST "/__better_errors/8614d977f8fd3afe/variables" for ::1 at 2015-04-21 00:34:15 -0700
+
+
+Started GET "/users/sign_up" for ::1 at 2015-04-21 00:38:06 -0700
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.slim within layouts/application (6.2ms)
+Completed 500 Internal Server Error in 12ms
+
+Slim::Parser::SyntaxError - Expected attribute
+  /Users/mac/Side_Projects/Volunteer_project/alumni/app/views/devise/registrations/new.html.slim, Line 13, Column 8
+    em (<%= @minimum_password_length %> characters minimum)
+        ^
+:
+  slim (3.0.3) lib/slim/parser.rb:499:in `syntax_error!'
+  slim (3.0.3) lib/slim/parser.rb:437:in `parse_attributes'
+  slim (3.0.3) lib/slim/parser.rb:338:in `parse_tag'
+  slim (3.0.3) lib/slim/parser.rb:242:in `parse_line_indicators'
+  slim (3.0.3) lib/slim/parser.rb:186:in `parse_line'
+  slim (3.0.3) lib/slim/parser.rb:89:in `call'
+  temple (0.7.5) lib/temple/engine.rb:50:in `block in call'
+  temple (0.7.5) lib/temple/engine.rb:50:in `call'
+  temple (0.7.5) lib/temple/mixins/template.rb:10:in `compile'
+  temple (0.7.5) lib/temple/templates/rails.rb:8:in `call'
+  actionview (4.2.0) lib/action_view/template.rb:270:in `compile'
+  actionview (4.2.0) lib/action_view/template.rb:245:in `block (2 levels) in compile!'
+  activesupport (4.2.0) lib/active_support/notifications.rb:166:in `instrument'
+  actionview (4.2.0) lib/action_view/template.rb:333:in `instrument'
+  actionview (4.2.0) lib/action_view/template.rb:244:in `block in compile!'
+  actionview (4.2.0) lib/action_view/template.rb:232:in `compile!'
+  actionview (4.2.0) lib/action_view/template.rb:144:in `block in render'
+  activesupport (4.2.0) lib/active_support/notifications.rb:166:in `instrument'
+  actionview (4.2.0) lib/action_view/template.rb:333:in `instrument'
+  actionview (4.2.0) lib/action_view/template.rb:143:in `render'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:54:in `block (2 levels) in render_template'
+  actionview (4.2.0) lib/action_view/renderer/abstract_renderer.rb:39:in `block in instrument'
+  activesupport (4.2.0) lib/active_support/notifications.rb:164:in `block in instrument'
+  activesupport (4.2.0) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.2.0) lib/active_support/notifications.rb:164:in `instrument'
+  actionview (4.2.0) lib/action_view/renderer/abstract_renderer.rb:39:in `instrument'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:53:in `block in render_template'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:61:in `render_with_layout'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:52:in `render_template'
+  actionview (4.2.0) lib/action_view/renderer/template_renderer.rb:14:in `render'
+  actionview (4.2.0) lib/action_view/renderer/renderer.rb:42:in `render_template'
+  actionview (4.2.0) lib/action_view/renderer/renderer.rb:23:in `render'
+  actionview (4.2.0) lib/action_view/rendering.rb:100:in `_render_template'
+  actionpack (4.2.0) lib/action_controller/metal/streaming.rb:217:in `_render_template'
+  actionview (4.2.0) lib/action_view/rendering.rb:83:in `render_to_body'
+  actionpack (4.2.0) lib/action_controller/metal/rendering.rb:32:in `render_to_body'
+  actionpack (4.2.0) lib/action_controller/metal/renderers.rb:37:in `render_to_body'
+  actionpack (4.2.0) lib/abstract_controller/rendering.rb:25:in `render'
+  actionpack (4.2.0) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:41:in `block (2 levels) in render'
+  activesupport (4.2.0) lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+  /Users/mac/.rbenv/versions/2.1.3/lib/ruby/2.1.0/benchmark.rb:294:in `realtime'
+  activesupport (4.2.0) lib/active_support/core_ext/benchmark.rb:12:in `ms'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:41:in `block in render'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:84:in `cleanup_view_runtime'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:40:in `render'
+  actionpack (4.2.0) lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  responders (2.1.0) lib/action_controller/responder.rb:236:in `default_render'
+  responders (2.1.0) lib/action_controller/responder.rb:170:in `to_html'
+  responders (2.1.0) lib/action_controller/responder.rb:163:in `respond'
+  responders (2.1.0) lib/action_controller/responder.rb:156:in `call'
+  responders (2.1.0) lib/action_controller/respond_with.rb:203:in `respond_with'
+  devise (3.4.1) app/controllers/devise/registrations_controller.rb:12:in `new'
+  actionpack (4.2.0) lib/action_controller/metal/implicit_render.rb:4:in `send_action'
+  actionpack (4.2.0) lib/abstract_controller/base.rb:198:in `process_action'
+  actionpack (4.2.0) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (4.2.0) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:117:in `call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:234:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:234:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:169:in `block in halting'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:151:in `block in halting_and_conditional'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:151:in `block in halting_and_conditional'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:92:in `_run_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:734:in `_run_process_action_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.0) lib/abstract_controller/callbacks.rb:19:in `process_action'
+  actionpack (4.2.0) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+  activesupport (4.2.0) lib/active_support/notifications.rb:164:in `block in instrument'
+  activesupport (4.2.0) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.2.0) lib/active_support/notifications.rb:164:in `instrument'
+  actionpack (4.2.0) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.2.0) lib/action_controller/metal/params_wrapper.rb:250:in `process_action'
+  actionpack (4.2.0) lib/abstract_controller/base.rb:137:in `process'
+  actionview (4.2.0) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.2.0) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.2.0) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.2.0) lib/action_controller/metal.rb:236:in `block in action'
+  actionpack (4.2.0) lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  actionpack (4.2.0) lib/action_dispatch/routing/route_set.rb:42:in `serve'
+  actionpack (4.2.0) lib/action_dispatch/routing/mapper.rb:49:in `serve'
+  actionpack (4.2.0) lib/action_dispatch/journey/router.rb:43:in `block in serve'
+  actionpack (4.2.0) lib/action_dispatch/journey/router.rb:30:in `serve'
+  actionpack (4.2.0) lib/action_dispatch/routing/route_set.rb:802:in `call'
+  warden (1.2.3) lib/warden/manager.rb:35:in `block in call'
+  warden (1.2.3) lib/warden/manager.rb:34:in `call'
+  rack (1.6.0) lib/rack/etag.rb:24:in `call'
+  rack (1.6.0) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.0) lib/rack/head.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `_run_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:734:in `_run_call_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  better_errors (2.1.1) lib/better_errors/middleware.rb:84:in `protected_app_call'
+  better_errors (2.1.1) lib/better_errors/middleware.rb:79:in `better_errors_call'
+  better_errors (2.1.1) lib/better_errors/middleware.rb:57:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  web-console (2.1.2) lib/web_console/middleware.rb:37:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  /Users/mac/.rbenv/versions/2.1.3/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/mac/.rbenv/versions/2.1.3/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/mac/.rbenv/versions/2.1.3/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+
+Started POST "/__better_errors/9d2798be88059e89/variables" for ::1 at 2015-04-21 00:38:07 -0700

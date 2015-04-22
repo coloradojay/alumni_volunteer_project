@@ -1,0 +1,29 @@
+// MAIN BODY
+main{
+  min-height: 700px;
+  padding: 50px 0px;
+}
+
+
+div.column div.ui.card{
+  position: absolute;
+  width: 280px;
+  margin: 0 auto;
+}
+div.ui.three.column.grid div.column.inline-display{
+  display: inline-block;
+}
+
+.ui.fluid.image:hover{
+  box-shadow: 0 0 1em rgba(1,1,1,.75);
+  margin-bottom: 2px;
+}
+div.ui.card{
+  display: none;
+}
+div.column .hidden-card:hover div.ui.card{
+  display: block;
+  position: absolute;
+  z-index: 50;
+  box-shadow: 0 0 1em rgba(1,1,1,.75);
+}
